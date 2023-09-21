@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WitzealAssignment</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="how_it_works">How it works?</string>
+    <string name="top_prize_money">Prize \u20B9 5000</string>
+    <string name="first_price_amount">\u20B9 15,500</string>
+    <string name="price_amount">\u20B9 500</string>
+</resources>
